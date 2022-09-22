@@ -1,0 +1,2 @@
+# GraphicWithRK
+Personal web pages are World Wide Web pages created by an individual to contain content of a personal nature rather than content pertaining to a company, organization or institution. Personal web pages are primarily used for informative or entertainment purposes but can also be used for personal career marketing (by containing a list of the individual's skills, experience and a CV), social networking with other people with shared interests, or as a space for personal expression.
