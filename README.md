@@ -15,7 +15,7 @@ Graphics (from Ancient Greek γραφικός (graphikós) 'pertaining to drawin
 
 View How does Look this code or website!
 
-Demo >>> https://sk-chaurasiya.github.io/Rakes-P.-Kumar/
+Demo >>> https://sk-chaurasiya.github.io/GraphicWithRK/
 
 Special Gift >>> https://rb.gy/5y76a
 
