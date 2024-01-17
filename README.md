@@ -4,9 +4,7 @@ Personal web pages are World Wide Web pages created by an individual to contain 
 
 ![hero](https://user-images.githubusercontent.com/97239651/191741295-f5536a46-51c6-4809-9649-c559f37525b4.PNG)
 
-
 ![banner](https://user-images.githubusercontent.com/97239651/191741340-4a6a1ee5-24e7-4749-a56d-e1de46152437.PNG)
-
 
 ![footer](https://user-images.githubusercontent.com/97239651/191741353-3a43bc5a-e654-40dc-8e18-b02e91fe6588.PNG)
 
@@ -17,11 +15,9 @@ View How does Look this code or website!
 
 Demo >>> https://sk-chaurasiya.github.io/GraphicWithRK/
 
-Special Gift >>> https://rb.gy/5y76a
-
 CodePen >>> https://codepen.io/sk-chaurasiya
 
-YouTube >>> Devil is Waiting.
+YouTube >>> [Devil is Waiting.](https://www.youtube.com/@deviliswaiting2478/featured)
 
 Any Work >>> https://www.fiverr.com/share/WYVQzR (Web Animation)
 
