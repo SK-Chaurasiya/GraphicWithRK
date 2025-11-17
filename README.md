@@ -17,7 +17,7 @@ Demo >>> https://sk-chaurasiya.github.io/GraphicWithRK/
 
 CodePen >>> https://codepen.io/sk-chaurasiya
 
-YouTube >>> [Devil is Waiting.](https://www.youtube.com/@deviliswaiting2478/featured)
+YouTube >>> [WDD Animetor.](https://www.youtube.com/@deviliswaiting2478/featured)
 
 Any Work >>> https://www.fiverr.com/share/WYVQzR (Web Animation)
 
